@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sihang
-- 🌱 I’m currently working as a Java backend developer and on personal projects.  
+- 🌱 I’m currently working as a Software engineer at Beaconfire Solutions Inc.  
 - 👀 I’m looking to collaborate on Java development.
 - 📫 How to reach me: li54718579@gmail.com. 
 
